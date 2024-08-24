@@ -115,4 +115,4 @@ Feel free to fork this repository, contribute enhancements, or suggest new featu
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](LICENSE) file for details.
