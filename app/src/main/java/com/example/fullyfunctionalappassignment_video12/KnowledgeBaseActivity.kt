@@ -70,7 +70,7 @@ class KnowledgeBaseActivity : AppCompatActivity() {
         btnEmail.setOnClickListener {
             val emailIntent = Intent(Intent.ACTION_SENDTO).apply {
                 data = Uri.parse("mailto:") // Only email apps should handle this
-                putExtra(Intent.EXTRA_EMAIL, arrayOf("himanshumaurya7781@gmail.com")) // Optional: Set a default email
+                putExtra(Intent.EXTRA_EMAIL, arrayOf("abc@gmail.com")) // Optional: Set a default email
                 putExtra(Intent.EXTRA_SUBJECT, "Opportunity to Join Our Team")
                 putExtra(Intent.EXTRA_TEXT, "\"Dear [Your Name],\\n\\nWe were impressed with your application and would like to discuss the opportunity to join our team further. Please let us know your availability for a follow-up conversation.\\n\\nBest regards,\\n[Hiring Manager's Name]\\n[Company Name]")
             }
@@ -81,7 +81,7 @@ class KnowledgeBaseActivity : AppCompatActivity() {
 
         btnPhoneCall.setOnClickListener {
             val phoneIntent = Intent(Intent.ACTION_DIAL).apply {
-                data = Uri.parse("tel:+919767564425") // Replace with the phone number
+                data = Uri.parse("tel:+91 1234567890") // Replace with the phone number
             }
             if (phoneIntent.resolveActivity(packageManager) != null) {
                 startActivity(phoneIntent)
