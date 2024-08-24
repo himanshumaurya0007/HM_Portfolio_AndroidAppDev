@@ -82,3 +82,24 @@ This app was built as part of an educational assignment to demonstrate the use o
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/tech-portfolio-app.git
+
+   Open the project in Android Studio.
+Customize the content to reflect your own skills and information.
+Build and run the app on your device or emulator.
+Share your portfolio with the world!
+Back to Top
+
+🤝 Contribute
+Feel free to fork this repository, contribute enhancements, or suggest new features. Let's collaborate to make this app even better!
+
+Fork the project.
+Create your feature branch (git checkout -b feature/AmazingFeature).
+Commit your changes (git commit -m 'Add some AmazingFeature').
+Push to the branch (git push origin feature/AmazingFeature).
+Open a Pull Request.
+Back to Top
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Back to Top
