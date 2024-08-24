@@ -49,26 +49,26 @@ Welcome to the **Tech Portfolio App** repository! This Android application serve
 Here are some screenshots of the app to give you an idea of its functionality and design:
 
 ### Introduction Page
-![Introduction Page](readme_images/intro.png)
+![Introduction](readme_images/intro.png)
 
 ### Skills Overview Page
-![Skills Overview Page](readme_images/kb1.png)
+![Skills Overview](readme_images/kb1.png)
 
 ### Detailed Skill Page
-![Detailed Skill Page](readme_images/program_lang.png)
-![Detailed Skill Page](readme_images/android_app_dev.png)
-![Detailed Skill Page](readme_images/web_dev.png)
-![Detailed Skill Page](readme_images/vcs.png)
-![Detailed Skill Page](readme_images/ai.png)
-![Detailed Skill Page](readme_images/ml.png)
-![Detailed Skill Page](readme_images/db.png)
+![Programming Languages](readme_images/program_lang.png)
+![Android App Development](readme_images/android_app_dev.png)
+![Web Development](readme_images/web_dev.png)
+![VCS](readme_images/vcs.png)
+![AI](readme_images/ai.png)
+![ML](readme_images/ml.png)
+![DB](readme_images/db.png)
 
 ### Communication Buttons
 ![Communication Buttons](readme_images/kb2.png)
 
 ### Communication Buttons - Outputs
-![Communication Buttons](readme_images/cbo1.png)
-![Communication Buttons](readme_images/cbo2.png)
+![Email](readme_images/cbo1.png)
+![Phone Call](readme_images/cbo2.png)
 
 ---
 
