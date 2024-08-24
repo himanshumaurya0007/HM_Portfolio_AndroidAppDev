@@ -36,8 +36,6 @@ Welcome to the **Tech Portfolio App** repository! This Android application serve
   - **Email Integration**: Pre-configured email intent for quick and easy communication.
   - **Phone Dialer**: Direct dial feature to facilitate immediate contact.
 
-[Back to Top](#)
-
 ---
 
 ## 🚀 Features
@@ -45,8 +43,6 @@ Welcome to the **Tech Portfolio App** repository! This Android application serve
 - **Customizable**: Easily update content to reflect your latest skills and projects.
 - **Responsive Design**: Compatible across various Android devices and screen sizes.
 - **Source Code**: Fully documented codebase to help you understand and extend the app.
-
-[Back to Top](#)
 
 ---
 
@@ -65,30 +61,23 @@ Here are some screenshots of the app to give you an idea of its functionality an
 ### Communication Buttons
 ![Communication Buttons](images/communication_buttons.png)
 
-**Note**: Replace the image paths with the actual paths where you store your screenshots.
-
-[Back to Top](#)
-
 ---
 
 ## 🎯 Purpose
 This app was built as part of an educational assignment to demonstrate the use of Android development tools, layout management, and implicit intents. It serves not only as a project for learning but also as a practical tool for professional networking and job applications.
 
-[Back to Top](#)
-
 ---
 
 ## 💻 How to Use
 1. **Clone the repository**:
+
    ```bash
-   git clone https://github.com/himanshumaurya0007/tech-portfolio-app.git
+   git clone https://github.com/himanshumaurya0007/Tech_Portfolio_App.git)
 
-2. **Open the project in Android Studio.**
-3. **Customize the content to reflect your own skills and information.**
-4. **Build and run the app on your device or emulator.**
-5. **Share your portfolio with the world!**
-
-[Back to Top](#)
+3. **Open the project in Android Studio.**
+4. **Customize the content to reflect your own skills and information.**
+5. **Build and run the app on your device or emulator.**
+6. **Share your portfolio with the world!**
 
 ---
 
@@ -112,7 +101,3 @@ Feel free to fork this repository, contribute enhancements, or suggest new featu
    git push origin feature/AmazingFeature
   
 5. **Open a Pull Request.**
-
-[Back to Top](#)
-
----
