@@ -3,16 +3,16 @@
 Welcome to the **Tech Portfolio App** repository! This Android application serves as a dynamic and interactive portfolio designed to highlight and showcase your technical skills in a visually appealing and user-friendly manner. Whether you're a developer, designer, or tech enthusiast, this app is tailored to make a strong impression on potential employers, clients, and collaborators.
 
 ## 📖 Table of Contents
-1. [App Overview](#app-overview-📱)
-2. [Features](#features-🚀)
-3. [Screenshots](#screenshots-📸)
-4. [Purpose](#purpose-🎯)
-5. [How to Use](#how-to-use-💻)
-6. [Contribute](#contribute-🤝)
-7. [License](#license-📄)
+1. [App Overview](#app_overview)
+2. [Features](#features)
+3. [Screenshots](#screenshots)
+4. [Purpose](#purpose)
+5. [How to Use](#how_to_use)
+6. [Contribute](#contribute)
+7. [License](#license)
 ---
 
-## App Overview 📱
+## App_Overview
 
 ### Introduction Page
 - Start with a personalized introduction, giving users a brief overview of who you are and what you do.
@@ -37,7 +37,7 @@ Welcome to the **Tech Portfolio App** repository! This Android application serve
 
 ---
 
-## Features 🚀
+## Features
 - **Interactive UI**: Clean and modern design with intuitive navigation.
 - **Customizable**: Easily update content to reflect your latest skills and projects.
 - **Responsive Design**: Compatible across various Android devices and screen sizes.
@@ -45,7 +45,7 @@ Welcome to the **Tech Portfolio App** repository! This Android application serve
 
 ---
 
-## Screenshots 📸
+## Screenshots
 Here are some screenshots of the app to give you an idea of its functionality and design:
 
 ### Introduction Page
@@ -72,12 +72,12 @@ Here are some screenshots of the app to give you an idea of its functionality an
 
 ---
 
-## Purpose 🎯 
+## Purpose
 This app was built as part of an educational assignment to demonstrate the use of Android development tools, layout management, and implicit intents. It serves not only as a project for learning but also as a practical tool for professional networking and job applications.
 
 ---
 
-## How to Use 💻
+## How_to_Use
 1. **Clone the repository**:
 
    ```bash
@@ -90,7 +90,7 @@ This app was built as part of an educational assignment to demonstrate the use o
 
 ---
 
-## Contribute 🤝
+## Contribute
 Feel free to fork this repository, contribute enhancements, or suggest new features. Let's collaborate to make this app even better!
 
 1. **Fork the project.**
@@ -113,5 +113,5 @@ Feel free to fork this repository, contribute enhancements, or suggest new featu
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see the [License](LICENSE) file for details.
