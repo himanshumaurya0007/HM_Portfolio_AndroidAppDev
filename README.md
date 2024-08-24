@@ -67,6 +67,10 @@ Here are some screenshots of the app to give you an idea of its functionality an
 ### Communication Buttons
 ![Communication Buttons](readme_images/kb2.png)
 
+### Communication Buttons - Outputs
+![Communication Buttons](readme_images/cbo1.png)
+![Communication Buttons](readme_images/cbo2.png)
+
 ---
 
 ## 🎯 Purpose
