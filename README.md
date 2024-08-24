@@ -3,14 +3,13 @@
 Welcome to the **Tech Portfolio App** repository! This Android application serves as a dynamic and interactive portfolio designed to highlight and showcase your technical skills in a visually appealing and user-friendly manner. Whether you're a developer, designer, or tech enthusiast, this app is tailored to make a strong impression on potential employers, clients, and collaborators.
 
 ## 📖 Table of Contents
-1. [App Overview](#app-overview)
-2. [Features](#features)
-3. [Screenshots](#screenshots)
-4. [Purpose](#purpose)
-5. [How to Use](#how-to-use)
-6. [Contribute](#contribute)
-7. [License](#license)
-
+1. [App Overview](#app-overview-📱)
+2. [Features](#features-🚀)
+3. [Screenshots](#screenshots-📸)
+4. [Purpose](#purpose-🎯)
+5. [How to Use](#how-to-use-💻)
+6. [Contribute](#contribute-🤝)
+7. [License](#license-📄)
 ---
 
 ## App Overview 📱
@@ -82,7 +81,7 @@ This app was built as part of an educational assignment to demonstrate the use o
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/himanshumaurya0007/Tech_Portfolio_App.git)
+   git clone https://github.com/himanshumaurya0007/Tech_Portfolio_App.git
 
 3. **Open the project in Android Studio.**
 4. **Customize the content to reflect your own skills and information.**
