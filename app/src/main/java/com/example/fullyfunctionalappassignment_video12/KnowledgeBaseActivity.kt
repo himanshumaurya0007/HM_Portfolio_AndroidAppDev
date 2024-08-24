@@ -72,7 +72,7 @@ class KnowledgeBaseActivity : AppCompatActivity() {
                 data = Uri.parse("mailto:") // Only email apps should handle this
                 putExtra(Intent.EXTRA_EMAIL, arrayOf("abc@gmail.com")) // Optional: Set a default email
                 putExtra(Intent.EXTRA_SUBJECT, "Opportunity to Join Our Team")
-                putExtra(Intent.EXTRA_TEXT, "\"Dear [Your Name],\\n\\nWe were impressed with your application and would like to discuss the opportunity to join our team further. Please let us know your availability for a follow-up conversation.\\n\\nBest regards,\\n[Hiring Manager's Name]\\n[Company Name]")
+                putExtra(Intent.EXTRA_TEXT, "Respected ABC,\n\nWe were impressed with your application and would like to discuss the opportunity to join our team further. Please let us know your availability for a follow-up conversation.\n\nBest regards,\n[Hiring Manager's Name]\n[Company Name]")
             }
             if (emailIntent.resolveActivity(packageManager) != null) {
                 startActivity(emailIntent)
