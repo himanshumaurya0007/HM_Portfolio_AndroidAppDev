@@ -1,4 +1,4 @@
-![Screenshot 2024-08-24 131406](https://github.com/user-attachments/assets/9d739a1c-4bde-4f8b-8084-f2ba2c731c85)# 🌟 Tech Portfolio App - Showcase Your Skills in Style
+# 🌟 Tech Portfolio App - Showcase Your Skills in Style
 
 Welcome to the **Tech Portfolio App** repository! This Android application serves as a dynamic and interactive portfolio designed to highlight and showcase your technical skills in a visually appealing and user-friendly manner. Whether you're a developer, designer, or tech enthusiast, this app is tailored to make a strong impression on potential employers, clients, and collaborators.
 
